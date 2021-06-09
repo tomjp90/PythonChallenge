@@ -3,7 +3,7 @@ import csv
 
 #point to data
 budget_data = os.path.join("Resources", "budget_data.csv")
-#point location for output
+# point location for output
 financial_analysis = os.path.join("Analysis", "Financial_Analysis_output.txt")
 
 #open data and separate by dilimeter
