@@ -2,7 +2,7 @@
 
 In these challenges, a Python script is created for analysing the financial records and polling data. The analysis is then both printed to the terminal the terminal and export to a text file with the results.
 
-Technologies Used:
+## Technologies Used:
 * Python
 * OS
 * CSV
